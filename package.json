@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jeanwahlung.github.io/Hello/",
+  "homepage": "https://jeanwahlung.github.io/tictac/",
   "dependencies": {
     "ajv": "^6.8.1",
     "gh-pages": "^2.0.1",
