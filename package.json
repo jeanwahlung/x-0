@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://jeanwahlung.github.io/Hello/",
   "dependencies": {
+    "ajv": "^6.8.1",
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
